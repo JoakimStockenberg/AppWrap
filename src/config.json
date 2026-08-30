@@ -1,0 +1,5 @@
+{
+    "targetUrl": "https://example.com",
+    "customUserAgentSuffix": "AppWrapperNative",
+    "appName": "Generic App Wrapper"
+}
