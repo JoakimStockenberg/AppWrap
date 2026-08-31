@@ -17,8 +17,10 @@
     "vite": "^8.2.2"
   },
   "dependencies": {
+    "@capacitor/android": "^8.5.0",
     "@capacitor/app": "^8.1.1",
     "@capacitor/cli": "^8.5.0",
+    "@capacitor/ios": "^8.5.0",
     "@capacitor/network": "^8.0.1"
   }
 }
